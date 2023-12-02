@@ -4,7 +4,7 @@
   -
   -
   -
-Twitter(X)
+Twitter(X):
   -
 
 The best channel.<br/>The worst channel.<br/>日本のチャンネル。<br/>
