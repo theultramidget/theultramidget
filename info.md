@@ -1,5 +1,5 @@
 # The Ultra Midget
-Social Media:
+## Social Media
 YouTube:
 -
 -
