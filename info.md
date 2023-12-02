@@ -5,8 +5,8 @@
 - Twitter(X)
   //
   
-The best channel
-The worst channel
+The best channel.\n
+The worst channel.\n
 日本のチャンネル。
 
 <!---
