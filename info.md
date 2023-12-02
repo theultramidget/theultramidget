@@ -4,12 +4,9 @@
   //
 - Twitter(X)
   //
-  
-The best channel.\n
-The worst channel.\n
-日本のチャンネル。
 
-<!---
+The best channel.<br/>The worst channel.<br/>日本のチャンネル。<br/>
+
 TO DO
-add social media and projects
---->
+- [ ] Add social media
+- [ ] Add projects
