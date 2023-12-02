@@ -1,5 +1,7 @@
 # The Ultra Midget
-@theultramidget
+Social Media:
+- YouTube
+- Twitter(X)
 
 The best channel.
 The worst channel.
