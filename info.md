@@ -1,10 +1,10 @@
 # The Ultra Midget
 ### Social Media:
-- YouTube<br/>
+ YouTube:
   -
   -
   -
-- Twitter(X)<br/>
+Twitter(X)
   -
 
 The best channel.<br/>The worst channel.<br/>日本のチャンネル。<br/>
