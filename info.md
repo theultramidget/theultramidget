@@ -1,7 +1,9 @@
 @theultramidget
-- the best channel
-- the worst channel
-- 日本のチャンネル。
+
+//
+>The best channel.
+>The worst channel.
+>日本のチャンネル。
 <!---
-.
+
 --->
