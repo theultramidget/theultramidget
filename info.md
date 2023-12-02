@@ -1,9 +1,9 @@
 @theultramidget
 
 //
-\>The best channel.
-\>The worst channel.
-\>日本のチャンネル。
+`#0969DA`The best channel.
+The worst channel.
+日本のチャンネル。
 <!---
 
 --->
